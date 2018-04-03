@@ -1,7 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
-	name = Peter Trško
-	email = peter.trsko@gmail.com
+	name = Peter Trsko
+	email = peter.trsko@habito.com
 [alias]
 	pretty-log = log --graph --decorate --stat
 	co = checkout
